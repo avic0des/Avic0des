@@ -1,0 +1,12 @@
+body {	
+	background-color : red;
+font-size: 25px;
+font-family: verdana;
+	}
+.pass {
+	width: 500px;
+	height: 400px;
+	font-size: 25px;
+	margin: 25px;
+	padding: 25px;
+}
