@@ -1,0 +1,32 @@
+body {
+		font-family: arial;
+}
+#abox {
+		width: 500px;
+		height: 400px;
+		margin: 25px auto;
+		background-color: #ECEFF5;
+		border: 2px solid black;
+		color: #8D949E;
+}
+#imgcontainer {
+		background-color: #3B5998;
+}
+.usr {
+		width: 100%;
+		padding: 10px 0px 10px 5px;
+		margin: 10px 0px 10px 10px;
+		border: 2px solid black;
+		box-sizing: border-box;
+		display: inline-block;
+}
+.cn {
+		width: 50%;
+		padding: 10px;
+		background-color: #42B72A;
+		color: white;
+		margin: 5px auto;
+}
+#or {
+		text-align: center;
+}
