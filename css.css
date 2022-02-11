@@ -22,7 +22,7 @@
 		position: relative;
 		left: 100px;
 }
-#navbar ol {,
+#navbar ol {
 		display: inline-block;
 }
 #container { 
@@ -37,7 +37,7 @@
 		display: block;
 		border-radius: 50%;
 		text-align: center;
-		text-decoratioin: none;
+		text-decoration: none;
 }
 a {
 	background-color: skyblue;
