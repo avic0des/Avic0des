@@ -1,6 +1,9 @@
 * {
   font-family: sans-serif;
   }
+#navbar {
+		background-color: black;
+}
 #logo {
 		height: 60px;
 		width: 60px;
