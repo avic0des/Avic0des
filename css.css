@@ -17,9 +17,10 @@
 		display: inline-block;
 		border: 1px solid black;
 		margin: 0px;
-		border-radius: 50%;
+		height: 100%;
 		width: 150px;
 		position: relative;
+		margin: 0px;
 		left: 100px;
 }
 #navbar ol {
@@ -35,9 +36,9 @@
 #navbar li a {
 		padding: 10px;
 		display: block;
-		border-radius: 50%;
 		text-align: center;
 		text-decoration: none;
+		margin: 0px;
 }
 a {
 	background-color: skyblue;
