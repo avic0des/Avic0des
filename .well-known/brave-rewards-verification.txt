@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: avic0des.ml
+Token: fb587d66f5e37303e227c5ccdf67646058509f3a1ccf997f13b8034b7fa7820c
